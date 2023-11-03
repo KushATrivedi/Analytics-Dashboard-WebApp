@@ -1,5 +1,7 @@
 # Dashboard in a Django application
-This sample shows how you can create a reporting dashboard in your Django project. The data from an SQLite database is transferred to the client-side data visualization library ([Flexmonster](https://www.flexmonster.com/?r=git_vr)) using Ajax.
+- Create a reporting dashboard in your Django project
+- Retrieve data from an SQLite database
+- Transmit the data to a client-side data visualization library called Flexmonster using Ajax
 
 
 # How to run the project
